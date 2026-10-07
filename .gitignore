@@ -1,0 +1,9 @@
+dataset/
+code/cache/
+__pycache__/
+*.pyc
+output.csv
+.env
+.venv/
+*.zip
+.history/
